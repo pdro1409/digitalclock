@@ -1,21 +1,28 @@
-# ⏰ Relógio Digital
+# 🕰️ Relógio Analógico com JavaScript
 
-Este é um projeto simples de um relógio digital criado com **HTML**, **CSS** e **JavaScript**. Desenvolvido durante a faculdade como forma de praticar manipulação de datas, estilização e DOM em tempo real.
+Projeto de um relógio analógico funcional, desenvolvido com **HTML**, **CSS** e **JavaScript puro**, que exibe a hora atual tanto com ponteiros quanto no formato digital.
 
 ## 🚀 Funcionalidades
 
-- Mostra a hora atual em tempo real.
-- Atualiza automaticamente a cada segundo.
-- Estilização moderna com fonte digital (`Orbitron`) e cores contrastantes.
+- Ponteiros das horas, minutos e segundos animados.
+- Exibição digital do horário atual.
+- Atualização automática em tempo real (a cada segundo).
+- Estilização visual com marcações no relógio (riscos).
+- Design responsivo e centralizado.
 
-## 🛠️ Tecnologias utilizadas
+## 📷 Preview
 
-- HTML5
-- CSS3
-- JavaScript (função `setInterval`, `Date()`, manipulação do DOM)
+![Relógio Analógico](screenshot.png) <!-- Substitua pelo caminho real do print, se desejar -->
 
-## 📦 Como rodar o projeto
+## 🛠️ Tecnologias Utilizadas
 
-1. Clone este repositório:
+- **HTML5** – Estrutura da página
+- **CSS3** – Estilização e layout do relógio
+- **JavaScript** – Lógica de tempo, rotação dos ponteiros e atualização da hora
+
+## 📦 Como executar
+
+1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
